@@ -5,7 +5,7 @@
 
 ## Purpose
 
-The purpose of this exploration is to find the changes in the Biodiversity Intactness Index around the Phoenex area from 2017 - 2020 [2](https://ai4edatasetspublicassets.blob.core.windows.net/assets/pdfs/io-biodiversity/Biodiversity_Intactness_whitepaper.pdf)
+The purpose of this exploration is to find the changes in the Biodiversity Intactness Index around the Phoenex area from 2017 - 2020 [1](https://ai4edatasetspublicassets.blob.core.windows.net/assets/pdfs/io-biodiversity/Biodiversity_Intactness_whitepaper.pdf)
 
 ## References
 
